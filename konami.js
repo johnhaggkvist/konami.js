@@ -1,7 +1,6 @@
 function Konami(callback)
 { 
 	var sequence = [
-	//	U	U	D	D	L	R	L	R	B	A	Start
 		38, 38, 40, 40, 37, 39, 37, 39, 66, 65, 13
 	], current = 0;
 
